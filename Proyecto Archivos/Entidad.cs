@@ -9,7 +9,7 @@ namespace Proyecto_Archivos
     
     class Entidad
     {
-        string nombre = "";
+        string[] nombre = new string[30];
         long dir_ent;
         long dir_atributo;
         long dir_datos=-1;
