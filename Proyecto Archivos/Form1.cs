@@ -84,6 +84,7 @@ namespace Proyecto_Archivos
         private void tamañoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             tamaño();
+            //hola
             
         }
 
